@@ -1,0 +1,13 @@
+{
+  "name": "is-lower",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["is", "string", "lowercase", "is-lower"],
+  "author": "RedYetiDev <redyetidev@gmail.com>",
+  "license": "MIT",
+  "description": "Check whether a string is lowercase",
+  "dependencies": {
+    "is-string": "^1.0.7"
+  }
+}
