@@ -1,4 +1,4 @@
-# `is-lower`
+# `is-lower` (v1.0.1)
 
 A simple utility to determine if a given string is in lowercase.
 
