@@ -23,7 +23,7 @@ console.log(isLowerCase("Hello"));       // false
 console.log(isLowerCase("one"));         // true
 console.log(isLowerCase("javascript"));  // true
 console.log(isLowerCase("NODEJS"));      // false
-console.log(isLowerCase("2024"));        // false
+console.log(isLowerCase("2024"));        // true
 console.log(isLowerCase("hello world")); // true
 console.log(isLowerCase("Hello World")); // false
 console.log(isLowerCase("hello123"));    // true
