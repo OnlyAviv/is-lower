@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {},
   "keywords": ["is", "string", "lowercase", "is-lower"],
-  "author": "RedYetiDev <redyetidev@gmail.com>",
+  "author": "Aviv Keller <hello@onlyaviv.com>",
   "license": "MIT",
   "description": "Check whether a string is lowercase",
   "dependencies": {
